@@ -14,10 +14,10 @@ To use this script, follow these steps:
 ## Example
 
 ```python
-Enter some string: I'm not in danger..I' the Danger
+Enter some string: I'm not in danger..I'm the Danger
 
 Encrypted: щЧѭРѮѯѴРѩѮРѤѡѮѧѥѲЮЮщЧРѴѨѥРфѡѮѧѥѲ
-Decrypted: I'm not in danger..I' the Danger
+Decrypted: I'm not in danger..I'm the Danger
 ```
 ## Encryption
 
